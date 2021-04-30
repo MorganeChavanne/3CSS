@@ -2,25 +2,30 @@
 a:link {
     color: pink;
 }
+
 /* survol des liens augmenter font a 1.5rem et mettre en jaune */
 a:hover {
-    font-weight: 1.5rem;
+    font-size: 1.5rem;
     color: yellow;
 }
+
 /* liens deja visites en rose */
 a:visited {
     color: pink;
 }
+
 /* survol du paragraphe, fond en red */
 p:hover {
     background-color: red;
 }
+
 /* augmenter taille premiere lettre paragraphe 1.8rem */
 p::first-letter {
     font-size: 1.8rem;
 }
+
 /* selections utilisateur surlignees en jaune */
 ::selection {
     color: yellow;
     background-color: red;
-  }
+}

@@ -1,0 +1,20 @@
+/* bordure rouge texte en gras */
+b {
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+}
+/* background span pink */
+span {
+    background-color: pink;
+}
+/* p entoures de bordure verte */
+p {
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+}
+/* div background lightgrey */
+div {
+    background-color: lightgrey;
+}

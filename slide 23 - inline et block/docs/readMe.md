@@ -6,7 +6,7 @@ En modifiant/créant les styles CSS et en vous aidant des documentations officie
 
 # Inline
 
-- Entourer le texte en gras d'un bordure rouge
+- Entourer le texte en gras d'une bordure rouge
 - Mettre les span avec une couleur de fond rose
 
 # Block
