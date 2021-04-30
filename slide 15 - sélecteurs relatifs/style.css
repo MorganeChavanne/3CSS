@@ -1,0 +1,34 @@
+/* couleur texte body et div en noir */
+/* couleur backcground body et div en lightgrey */
+body, div {
+    color: black;
+    background-color: lightgrey;
+}
+/* couleur de tous les p en red */
+div p {
+    color: red
+}
+/* police bold pour paragraphes > p */
+div > p {
+    font-weight: bold;
+}
+/* couleur texte apres le p conteneur en vert */
+div + p {
+    color: green;
+}
+/* p apres h2 en majuscule */
+h2 + p {
+    text-transform: uppercase;
+}
+/* p apres element code en pink */
+code + p {
+    color: pink;
+}
+/* div enfant du body en yellow */
+div > body {
+    background-color: yellow;
+}
+/* div apres un h1 bordure verte */
+h1 + div {
+    border:solid green;
+}

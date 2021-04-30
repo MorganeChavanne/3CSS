@@ -1,0 +1,14 @@
+/* liens target en lightgreen et bold */
+
+a[target] {
+     color : lightgreen
+}
+a[target] {
+    font-weight: bold;
+}
+
+/* lien target="_top" avec font a 3rem */
+
+a[target="_top"] {
+    font-size: 3rem;
+}
