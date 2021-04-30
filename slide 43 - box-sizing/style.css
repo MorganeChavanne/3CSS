@@ -1,0 +1,29 @@
+div {
+    width: 500px;
+    background-color: lightseagreen;
+}
+h2 {
+    width: 400px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: maroon;
+}
+.para1 {
+    width: 500px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: midnightblue;
+    background-color: navajowhite;
+    padding: 15px;
+}
+.para2 {
+    width: 500px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: palevioletred;
+    background-color: powderblue;
+    margin: 15px;
+}
+.box {
+    box-sizing: border-box;
+}

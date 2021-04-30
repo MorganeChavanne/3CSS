@@ -1,0 +1,8 @@
+div {
+    font-size: 500px;
+    background-color: lightgrey;
+    border-width: 15px;
+    border-style: solid;
+    border-color: lightseagreen;
+    margin: 50px;
+}
